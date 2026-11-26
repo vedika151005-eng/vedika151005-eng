@@ -38,9 +38,9 @@ I'm a BCA student interested in Web Development and Python Development. I enjoy 
 - MongoDB
 
 **Tools**
-- Git
-- GitHub
 - VS Code
+-MySQL Workbench
+-XAMPP
 
 ---
 
